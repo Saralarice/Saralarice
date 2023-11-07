@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucas-g-79491abb/)](https://www.linkedin.com/in/lucas-g-79491abb/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sara-larice-sousa-vieira-615288290/)](https://www.linkedin.com/in/sara-larice-sousa-vieira-615288290/)
 [![Gmail Badge](https://img.shields.io/badge/-saralaricesousavieira@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saralaricesousavieira@gmail.com)](mailto:saralaricesousavieira@gmail.com)
 
 
@@ -37,7 +37,7 @@ My name is Sara and ...:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-geremias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-geremias/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/Sara-larice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-larice/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
