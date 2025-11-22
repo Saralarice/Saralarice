@@ -16,10 +16,10 @@
 
 My name is Sara and...:
 
- - 😄 Sou estudante muito dedicada e responsável  
+ - 😄 Tenho habilidades de comunicação e atendimento ao público  
  - 📊 Sou técnica em informática  
- - 📚 Quero ser Engenheira de Software  
- - 🌍 Engenharia de Software é minha paixão
+ - 📚 Quero cursar engenharia de software   
+ - 🌍 Tecnologia é minha paixão
 
 <h3 align="left">Connect with me:</h3>
 
